@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Github 블로그 오픈(?)"
-date:   2020-02-29 19:30:00
+date:   2020-02-29 10:30:00 +9000
 category: [잡담]
 tags: [잡담]
 ---
