@@ -18,8 +18,11 @@ layout: default
 	{% endif %}
 	
   {% if site.posts.size > 0 %}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+	<h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
 		{% for categories in site.categories %}
+			{% if categories[0] == "Education" %}
+				{% continue %}
+			{% endif %}
 			<h3 name={{categories[0]}}>{{ categories[0] }}</h3>
 			<ul>
 				{% for post in categories[1] %}
