@@ -1,0 +1,12 @@
+passcodeNumber = [5, 2, 4, 7]
+userInput = [0, 0, 0, 0]
+
+userInput[0] = int(input("첫 번째 숫자를 넣어주세요: "))
+userInput[1] = int(input("두 번째 숫자를 넣어주세요: "))
+userInput[2] = int(input("세 번째 숫자를 넣어주세요: "))
+userInput[3] = int(input("네 번째 숫자를 넣어주세요: "))
+
+if userInput[0] == passcodeNumber[0] and userInput[1] == passcodeNumber[1] and userInput[2] == passcodeNumber[2] and userInput[3] == passcodeNumber[3]:
+    print("문이 열렸습니다.")
+else:
+    print("비밀번호가 틀렸습니다.")
