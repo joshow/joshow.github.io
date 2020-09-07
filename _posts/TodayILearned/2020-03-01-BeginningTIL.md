@@ -2,8 +2,8 @@
 layout: post
 title:  "TIL(Today I Learned) 시작"
 date:   2020-03-01 07:45:00 +9000
-category: [ TIL(Today I Learned) ]
-tags: [ TIL ]
+category: [ 공부일기 ]
+tags: [ 공부일기 ]
 ---
 
 그날 하루 공부한 내용을 정리하는 카테고리 입니다.
