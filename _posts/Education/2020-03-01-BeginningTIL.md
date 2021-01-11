@@ -2,7 +2,7 @@
 layout: edu
 title:  "TIL(Today I Learned) 시작"
 date:   2020-03-01 07:45:00 +9000
-category: [ 공부일기 ]
+category: [ Education ]
 tags: [ 공부일기 ]
 ---
 
