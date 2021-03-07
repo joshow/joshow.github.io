@@ -48,7 +48,9 @@ const char* jumpGame() {
     }
 
     bool canReach = false;
-    bool bVisited[100][100] = {{false, }, };
+    bool bVisited[100][100] = {
+        {false, },
+    };
     static std::vector<point_t> stack;
     stack.clear();
     
