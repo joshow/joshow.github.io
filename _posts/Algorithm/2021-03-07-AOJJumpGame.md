@@ -3,7 +3,7 @@ layout: post
 title:  "알고스팟 - JUMPGAME"
 date:   2021-03-07 07:45:00 +9000
 category: [ 알고리즘 ]
-tags: [ 알고리즘, 백준 ]
+tags: [ 알고리즘, 알고스팟 ]
 ---
 
 [문제 링크](https://www.algospot.com/judge/problem/read/JUMPGAME)
